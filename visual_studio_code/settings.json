@@ -1,0 +1,40 @@
+{
+  "workbench.colorTheme": "Tomorrow Night Blue",
+  "editor.minimap.enabled": false,
+  "redhat.telemetry.enabled": false,
+  "workbench.startupEditor": "none",
+  "html.format.wrapLineLength": 0,
+  "editor.formatOnSave": true,
+  "python.venvFolders": ["~/.virtualenvs"],
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "python.formatting.provider": "black",
+  "black-formatter.args": ["--line-length=99"],
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#000000",
+    "activityBar.activeBorder": "#000000",
+    "activityBar.background": "#1f97d0",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#a61979",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "statusBar.background": "#1877a4",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#1f97d0",
+    "titleBar.activeBackground": "#1877a4",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#1877a499",
+    "titleBar.inactiveForeground": "#e7e7e799",
+    "sash.hoverBorder": "#1f97d0",
+    "statusBarItem.remoteBackground": "#1877a4",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "tab.activeBackground": "#000000",
+    "tab.unfocusedActiveBorder": "#356bde",
+    "tab.activeForeground": "#e9e9e9",
+    "tab.inactiveForeground": "#9b9b9b"
+  },
+  "git.openRepositoryInParentFolders": "never",
+  "files.autoSave": "afterDelay"
+}
+
